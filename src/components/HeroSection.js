@@ -6,7 +6,8 @@ import "./HeroSection.css";
 function HeroSection() {
   return (
     <div className="hero-container">
-      <video src="/videos/video-1.mp4" autoPlay loop muted />
+      <img className="ima" src="images/img-3.jpg"></img>
+      {/* <video src="/videos/video-1.mp4" autoPlay loop muted /> */}
       <h1>BANGLADESH</h1>
       <p>ADVENTURE AWAITS</p>
       <div className="hero-btns">
@@ -15,16 +16,16 @@ function HeroSection() {
           buttonStyle="btn--outline"
           buttonSize="btn--large"
         >
-          GET STARTED
+          OUR SERVICES
         </Button>
-        {/* <Button
+        <Button
           className="btns"
           buttonStyle="btn--primary"
           buttonSize="btn--large"
           onClick={console.log("hey")}
         >
           WATCH TRAILER <i className="far fa-play-circle" />
-        </Button> */}
+        </Button>
       </div>
     </div>
   );
