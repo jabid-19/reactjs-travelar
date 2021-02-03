@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactJs-Travelar-Website/static/css/main.243ca405.chunk.css",
+    "main.js": "/ReactJs-Travelar-Website/static/js/main.37f1020d.chunk.js",
+    "main.js.map": "/ReactJs-Travelar-Website/static/js/main.37f1020d.chunk.js.map",
+    "runtime-main.js": "/ReactJs-Travelar-Website/static/js/runtime-main.75388dee.js",
+    "runtime-main.js.map": "/ReactJs-Travelar-Website/static/js/runtime-main.75388dee.js.map",
+    "static/js/2.126bf728.chunk.js": "/ReactJs-Travelar-Website/static/js/2.126bf728.chunk.js",
+    "static/js/2.126bf728.chunk.js.map": "/ReactJs-Travelar-Website/static/js/2.126bf728.chunk.js.map",
+    "index.html": "/ReactJs-Travelar-Website/index.html",
+    "precache-manifest.62d91fbd1476c2d03f66ac10b6b3a249.js": "/ReactJs-Travelar-Website/precache-manifest.62d91fbd1476c2d03f66ac10b6b3a249.js",
+    "service-worker.js": "/ReactJs-Travelar-Website/service-worker.js",
+    "static/css/main.243ca405.chunk.css.map": "/ReactJs-Travelar-Website/static/css/main.243ca405.chunk.css.map",
+    "static/js/2.126bf728.chunk.js.LICENSE.txt": "/ReactJs-Travelar-Website/static/js/2.126bf728.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75388dee.js",
+    "static/js/2.126bf728.chunk.js",
+    "static/css/main.243ca405.chunk.css",
+    "static/js/main.37f1020d.chunk.js"
+  ]
+}
