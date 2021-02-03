@@ -64,7 +64,7 @@ function Footer() {
         <div class="social-media-wrap">
           <div class="footer-logo">
             <Link to="/" className="social-logo">
-              TRAVELAR
+              TRAVELER
             </Link>
           </div>
           <div class="social-icons">
